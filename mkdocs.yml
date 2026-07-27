@@ -42,7 +42,7 @@ plugins:
       blog_toc: true
       post_date_format: long
       pagination_per_page: 10
-      categories_name: Categorias
+      categories: false
       archive: false
   - git-revision-date-localized:
       type: date
@@ -50,7 +50,10 @@ plugins:
       fallback_to_build_date: true
 
 nav:
-  - Início: index.md
+  - Início:
+      - Visão geral: index.md
+      - Como Usar / Pedir Ajuda: geral/ajuda.md
+      - Perguntas Frequentes: geral/faq.md
   - Geral:
       - Comunicados e Novidades: comunicados/index.md
       - Book de Comunicação:
@@ -71,8 +74,6 @@ nav:
       - Segurança da Informação: seguranca/seguranca-informacao.md
       - Glossário: geral/glossario.md
       - Prazos e Obrigações Recorrentes: geral/prazos-obrigacoes.md
-      - Como Usar / Pedir Ajuda: geral/ajuda.md
-      - Perguntas Frequentes: geral/faq.md
       - Equipa e Organograma: equipa/organograma.md
   - Comercial:
       - Procedimentos: comercial/originacao-credito.md

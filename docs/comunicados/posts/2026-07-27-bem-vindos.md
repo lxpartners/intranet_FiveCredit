@@ -1,7 +1,5 @@
 ---
 date: 2026-07-27
-categories:
-  - Geral
 ---
 
 # Bem-vindos à nova intranet
