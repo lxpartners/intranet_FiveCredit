@@ -4,8 +4,10 @@ docs_dir: docs
 
 theme:
   name: material
-  language: custom
+  language: pt
   custom_dir: overrides
+  logo: assets/logo.png
+  favicon: assets/favicon.png
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -35,6 +37,13 @@ theme:
 
 plugins:
   - search
+  - blog:
+      blog_dir: comunicados
+      blog_toc: true
+      post_date_format: long
+      pagination_per_page: 10
+      categories_name: Categorias
+      archive: false
   - git-revision-date-localized:
       type: date
       locale: pt
@@ -43,6 +52,7 @@ plugins:
 nav:
   - Início: index.md
   - Geral:
+      - Comunicados e Novidades: comunicados/index.md
       - Book de Comunicação:
           - Registo: book-comunicacao/registo.md
           - Candidatura: book-comunicacao/candidatura.md
@@ -61,6 +71,8 @@ nav:
       - Segurança da Informação: seguranca/seguranca-informacao.md
       - Glossário: geral/glossario.md
       - Prazos e Obrigações Recorrentes: geral/prazos-obrigacoes.md
+      - Como Usar / Pedir Ajuda: geral/ajuda.md
+      - Perguntas Frequentes: geral/faq.md
       - Equipa e Organograma: equipa/organograma.md
   - Comercial:
       - Procedimentos: comercial/originacao-credito.md

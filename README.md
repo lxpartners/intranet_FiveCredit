@@ -15,13 +15,23 @@ Risco) já está incluído.
 
 ## Novidades desta versão
 
+- **Mural de Comunicados e Novidades** — separador novo em "Geral", com posts datados, mais recentes
+  primeiro (usa o sistema de blog já incluído no tema — sem plugins extra)
+- **Página "Como Usar / Pedir Ajuda"** e **Perguntas Frequentes**
+- **Logótipo e favicon** — um ícone simples "5C" em azul, só como placeholder; substituir por
+  `docs/assets/logo.png` e `docs/assets/favicon.png` reais assim que tiverem a identidade visual definitiva
+- **Página 404 personalizada**, em português
+- **`robots.txt`** — impede motores de busca de indexar o site
+
+## Novidades da versão anterior
+
 - **Modo escuro** — botão no cabeçalho para alternar entre claro/escuro
 - **Data real de "última atualização"** — cada página mostra a data da sua última alteração real, tirada do
   histórico do Git (não uma data escrita à mão)
-- **Botão de imprimir/exportar** — em cada página, e uma página especial "Exportar / Imprimir tudo" que junta
-  o site inteiro num único documento para imprimir ou guardar em PDF
+- **Botão de imprimir por página** — ícone no topo de cada página, usa a função de impressão do próprio
+  browser
 - **Glossário**, **Prazos e Obrigações Recorrentes**, **Segurança da Informação** e **Continuidade de
-  Negócio** — quatro secções novas, em "Geral" e "Compliance"
+  Negócio** — quatro secções em "Geral" e "Compliance"
 - **Menu reorganizado por equipa** — Comercial, Risco, Compliance e Geral, cada um com submenu
 
 ⚠️ Nota técnica: a data de "última atualização" só funciona corretamente se o projeto estiver dentro de um
