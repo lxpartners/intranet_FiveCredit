@@ -85,6 +85,7 @@ nav:
       - Continuidade de Negócio: compliance/continuidade-negocio.md
       - Gestão de Incumprimentos: compliance/gestao-incumprimentos.md
       - Scoring do Avalista: compliance/scoring-avalista.md
+      - Parceiros: compliance/parceiros.md
 
 markdown_extensions:
   - admonition
