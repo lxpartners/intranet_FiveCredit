@@ -10,8 +10,10 @@ Processo a seguir quando um cliente falha o pagamento de prestações.
     - `five@fivecredit.pt` e `legal@fivecredit.pt` em CC
 3. Enviar email para **`OfficeSupport@algebracapital.pt`**, usando o template **"Email Interpelação Office
    Support"** (ver [Book de Comunicação — Procedimentos](../book-comunicacao/procedimentos.md))
+    - Entregar a carta junto da equipa de Office Support, no 5º andar, com o carimbo da Circle Capital
+      SGOIC, S.A.
 
-## 4ª prestação em falta
+## 4 prestações em atraso
 
 - Enviar **nova carta de interpelação** — desta vez já com o **preenchimento da livrança**
 
