@@ -39,9 +39,6 @@ plugins:
       type: date
       locale: pt
       fallback_to_build_date: true
-  - print-site:
-      add_to_navigation: true
-      print_page_title: "Exportar / Imprimir tudo"
 
 nav:
   - Início: index.md
