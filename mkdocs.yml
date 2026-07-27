@@ -23,34 +23,39 @@ theme:
 
 nav:
   - Início: index.md
-  - Book de Comunicação:
-      - Registo: book-comunicacao/registo.md
-      - Candidatura: book-comunicacao/candidatura.md
-      - Contabilista: book-comunicacao/contabilista.md
-      - KYC: book-comunicacao/kyc.md
-      - Contrato: book-comunicacao/contrato.md
-      - Manutenção: book-comunicacao/manutencao.md
-  - Fluxo de Trabalho:
-      - "Fase 1 — Registo": fluxo-trabalho/fase-1-registo.md
-      - "Fase 2 — Candidatura": fluxo-trabalho/fase-2-candidatura.md
-      - "Fase 3 — Documentos": fluxo-trabalho/fase-3-documentos.md
-      - "Fase 4 — Avaliação": fluxo-trabalho/fase-4-avaliacao.md
-      - "Fase 5 — KYC & RCBE": fluxo-trabalho/fase-5-kyc-rcbe.md
-      - "Fase 6 — Formalização": fluxo-trabalho/fase-6-formalizacao.md
-  - Política de Compliance:
-      - Visão geral: compliance/index.md
-      - "01 — Introdução": compliance/01-introducao.md
-      - "02 — Função de Compliance": compliance/02-funcao-compliance.md
-      - "03 — Princípios": compliance/03-principios.md
-      - "04 — Responsável": compliance/04-responsavel.md
-      - "05 — Relatórios": compliance/05-relatorios.md
-      - "06 — Manutenção de Registos": compliance/06-manutencao-registos.md
-      - "07 — Gestão de Visitas": compliance/07-gestao-visitas.md
-      - "Apêndice 1 — Recibo": compliance/apendice-1.md
-  - Procedimentos Comercial:
-      - Originação de Crédito: comercial/originacao-credito.md
-  - Procedimentos Risco:
-      - Análise e Decisão de Risco: risco/analise-decisao-risco.md
+  - Comercial:
+      - Procedimentos: comercial/originacao-credito.md
+  - Risco:
+      - Procedimentos: risco/analise-decisao-risco.md
+  - Compliance:
+      - Política de Compliance:
+          - Visão geral: compliance/index.md
+          - "01 — Introdução": compliance/01-introducao.md
+          - "02 — Função de Compliance": compliance/02-funcao-compliance.md
+          - "03 — Princípios": compliance/03-principios.md
+          - "04 — Responsável": compliance/04-responsavel.md
+          - "05 — Relatórios": compliance/05-relatorios.md
+          - "06 — Manutenção de Registos": compliance/06-manutencao-registos.md
+          - "07 — Gestão de Visitas": compliance/07-gestao-visitas.md
+          - "Apêndice 1 — Recibo": compliance/apendice-1.md
+      - Proteção de Dados (RGPD): rgpd/protecao-dados.md
+      - Livro de Reclamações: reclamacoes/livro-reclamacoes.md
+  - Geral:
+      - Book de Comunicação:
+          - Registo: book-comunicacao/registo.md
+          - Candidatura: book-comunicacao/candidatura.md
+          - Contabilista: book-comunicacao/contabilista.md
+          - KYC: book-comunicacao/kyc.md
+          - Contrato: book-comunicacao/contrato.md
+          - Manutenção: book-comunicacao/manutencao.md
+      - Fluxo de Trabalho:
+          - "Fase 1 — Registo": fluxo-trabalho/fase-1-registo.md
+          - "Fase 2 — Candidatura": fluxo-trabalho/fase-2-candidatura.md
+          - "Fase 3 — Documentos": fluxo-trabalho/fase-3-documentos.md
+          - "Fase 4 — Avaliação": fluxo-trabalho/fase-4-avaliacao.md
+          - "Fase 5 — KYC & RCBE": fluxo-trabalho/fase-5-kyc-rcbe.md
+          - "Fase 6 — Formalização": fluxo-trabalho/fase-6-formalizacao.md
+      - Equipa e Organograma: equipa/organograma.md
 
 markdown_extensions:
   - admonition
