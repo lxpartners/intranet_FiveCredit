@@ -13,6 +13,21 @@ Risco) já está incluído.
   autenticação individual antes de qualquer pessoa ver o site, usa-se o **Cloudflare Access** — gratuito até
   50 utilizadores.
 
+## Novidades desta versão
+
+- **Modo escuro** — botão no cabeçalho para alternar entre claro/escuro
+- **Data real de "última atualização"** — cada página mostra a data da sua última alteração real, tirada do
+  histórico do Git (não uma data escrita à mão)
+- **Botão de imprimir/exportar** — em cada página, e uma página especial "Exportar / Imprimir tudo" que junta
+  o site inteiro num único documento para imprimir ou guardar em PDF
+- **Glossário**, **Prazos e Obrigações Recorrentes**, **Segurança da Informação** e **Continuidade de
+  Negócio** — quatro secções novas, em "Geral" e "Compliance"
+- **Menu reorganizado por equipa** — Comercial, Risco, Compliance e Geral, cada um com submenu
+
+⚠️ Nota técnica: a data de "última atualização" só funciona corretamente se o projeto estiver dentro de um
+repositório Git com histórico (o que já é o caso, visto que já o publicaram no GitHub). Isto já foi testado
+e confirmado a funcionar.
+
 ## Ver localmente antes de publicar (opcional)
 
 Requer Python instalado ([python.org](https://python.org)).
@@ -70,15 +85,22 @@ discutimos, sem precisar de um sistema de contas próprio.
 
 ```
 mkdocs.yml              # configuração do site e menu de navegação
-requirements.txt         # dependência (mkdocs-material)
+requirements.txt         # dependências (mkdocs-material + plugins de data e impressão)
+overrides/               # pequena correção de tradução (caixa de pesquisa)
 docs/
   index.md               # página inicial
   book-comunicacao/       # 20 templates de email, por categoria
   fluxo-trabalho/         # 6 fases do processo de candidatura
-  compliance/             # política de compliance (visão geral + 8 secções)
+  compliance/             # política de compliance, RGPD*, continuidade de negócio
   comercial/              # procedimentos comerciais
   risco/                  # procedimentos de risco
+  rgpd/                   # proteção de dados
+  reclamacoes/            # livro de reclamações
+  equipa/                 # contactos e onboarding
+  geral/                  # glossário, prazos e obrigações recorrentes
+  seguranca/              # segurança da informação
 ```
+<sub>* RGPD tem pasta própria (`rgpd/`) mas aparece no menu dentro do separador Compliance.</sub>
 
 ## Adicionar uma página nova
 
