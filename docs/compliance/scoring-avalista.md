@@ -36,4 +36,4 @@ https://ojhgxowjgk.execute-api.eu-west-1.amazonaws.com/dev/docs#/scoring/score_i
 
 !!! info "Exemplo com dados fictícios"
     O NIF e o nome acima foram substituídos por valores fictícios — não usar dados reais de clientes ou
-    avalistas em documentação interna, para respeitar a [Política de Proteção de Dados (RGPD)](../rgpd/protecao-dados.md).
+    avalistas em documentação interna, para respeitar a [Política de Proteção de Dados (RGPD)](../rgpd/index.md).

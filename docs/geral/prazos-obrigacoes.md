@@ -12,7 +12,7 @@ acompanhamento. Cada linha tem uma ligação para a página com o detalhe comple
 | Débito direto — 1ª tentativa | D-5 (5 dias antes da data de cobrança) | Backoffice | [Fluxo de Trabalho — Fase 6](../fluxo-trabalho/fase-6-formalizacao.md) |
 | Conservação de documentos (geral) | 5 anos | Todos | [Política de Compliance — 06](../compliance/06-manutencao-registos.md) |
 | Conservação de documentos (prevenção de branqueamento) | 7 anos | Todos | [Política de Compliance — 06](../compliance/06-manutencao-registos.md) |
-| Notificação de violação de dados à CNPD | Até 72 horas após conhecimento | DPO / Responsável de Compliance | [Proteção de Dados (RGPD)](../rgpd/protecao-dados.md) |
+| Notificação de violação de dados à CNPD | Até 72 horas após conhecimento | DPO / Responsável de Compliance | [Proteção de Dados (RGPD)](../rgpd/index.md) |
 
 !!! warning "Manter isto atualizado"
     Esta página só é útil se for revista sempre que um prazo mudar noutro sítio da intranet. Ao editar um

@@ -90,8 +90,30 @@ nav:
           - "06 — Manutenção de Registos": compliance/06-manutencao-registos.md
           - "07 — Gestão de Visitas": compliance/07-gestao-visitas.md
           - "Apêndice 1 — Recibo": compliance/apendice-1.md
-      - Proteção de Dados (RGPD): rgpd/protecao-dados.md
-      - Política de ESG: compliance/esg.md
+      - Proteção de Dados (RGPD):
+          - Visão geral: rgpd/index.md
+          - "01 — Introdução": rgpd/01-introducao.md
+          - "02 — Responsável pelo Tratamento": rgpd/02-responsavel.md
+          - "03 — Contactos do DPO": rgpd/03-contactos.md
+          - "04 — Tratamento de Dados": rgpd/04-tratamento.md
+          - "05 — Finalidades e Prazos": rgpd/05-finalidades-prazos.md
+          - "06 — Comunicação de Dados": rgpd/06-comunicacao.md
+          - "07 — Direitos do Titular": rgpd/07-direitos-titular.md
+          - "08 — Segurança dos Dados": rgpd/08-seguranca.md
+          - "09 — Cookies": rgpd/09-cookies.md
+          - "10 — Anexos": rgpd/10-anexos.md
+          - "11 — Aprovação": rgpd/11-aprovacao.md
+      - Política de ESG:
+          - Visão geral: esg/index.md
+          - "01 — Introdução": esg/01-introducao.md
+          - "02 — Objeto": esg/02-objeto.md
+          - "03 — Estratégia de Sustentabilidade": esg/03-estrategia.md
+          - "04 — Princípios Gerais": esg/04-principios.md
+          - "05 — Impacto na Política de Investimentos": esg/05-impacto-investimentos.md
+          - "06 — Impacto na Governação": esg/06-governacao.md
+          - "07 — Impacto na Gestão de Riscos": esg/07-gestao-riscos.md
+          - "08 — Impacto na Política de Remuneração": esg/08-remuneracao.md
+          - "09 — Aprovação e Entrada em Vigor": esg/09-aprovacao.md
       - Livro de Reclamações: reclamacoes/livro-reclamacoes.md
       - Continuidade de Negócio: compliance/continuidade-negocio.md
       - Gestão de Incumprimentos: compliance/gestao-incumprimentos.md
