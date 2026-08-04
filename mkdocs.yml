@@ -114,6 +114,17 @@ nav:
           - "07 — Impacto na Gestão de Riscos": esg/07-gestao-riscos.md
           - "08 — Impacto na Política de Remuneração": esg/08-remuneracao.md
           - "09 — Aprovação e Entrada em Vigor": esg/09-aprovacao.md
+      - Política de Conflitos de Interesses:
+          - Visão geral: conflitos-interesse/index.md
+          - "01 — Introdução": conflitos-interesse/01-introducao.md
+          - "02 — Estrutura Organizacional": conflitos-interesse/02-estrutura-organizacional.md
+          - "03 — Tipos de Conflitos de Interesses": conflitos-interesse/03-tipos-conflitos.md
+          - "04 — Procedimentos de Prevenção": conflitos-interesse/04-procedimentos-prevencao.md
+          - "05 — Prevenção de Conflitos": conflitos-interesse/05-prevencao.md
+          - "06 — Divulgação da Política": conflitos-interesse/06-divulgacao.md
+          - "07 — Dever de Comunicação": conflitos-interesse/07-dever-comunicacao.md
+          - "08 — Gestão dos Conflitos": conflitos-interesse/08-gestao-conflitos.md
+          - "09 — Situações Específicas": conflitos-interesse/09-situacoes-especificas.md
       - Livro de Reclamações: reclamacoes/livro-reclamacoes.md
       - Continuidade de Negócio: compliance/continuidade-negocio.md
       - Gestão de Incumprimentos: compliance/gestao-incumprimentos.md
