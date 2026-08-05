@@ -125,6 +125,23 @@ nav:
           - "07 — Dever de Comunicação": conflitos-interesse/07-dever-comunicacao.md
           - "08 — Gestão dos Conflitos": conflitos-interesse/08-gestao-conflitos.md
           - "09 — Situações Específicas": conflitos-interesse/09-situacoes-especificas.md
+      - Política AML:
+          - Visão geral: aml/index.md
+          - "01 — Introdução": aml/01-introducao.md
+          - "02 — Organização Interna": aml/02-organizacao-interna.md
+          - "03.1 — Dever de Controlo": aml/03-1-dever-controlo.md
+          - "03.2 — Dever de Identificação e Diligência": aml/03-2-dever-identificacao-diligencia.md
+          - "03.3 — Dever de Recusa": aml/03-3-dever-recusa.md
+          - "03.4 — Dever de Conservação": aml/03-4-dever-conservacao.md
+          - "03.5 — Dever de Exame": aml/03-5-dever-exame.md
+          - "03.6 — Dever de Comunicação": aml/03-6-dever-comunicacao.md
+          - "03.7 — Dever de Abstenção": aml/03-7-dever-abstencao.md
+          - "03.8 — Dever de Colaboração": aml/03-8-dever-colaboracao.md
+          - "03.9 — Dever de Não Divulgação": aml/03-9-dever-nao-divulgacao.md
+          - "03.10 — Dever de Formação": aml/03-10-dever-formacao.md
+          - "04 — Proteção e Tratamento de Dados": aml/04-protecao-dados.md
+          - "Apêndice 1 — Formulário KYC": aml/apendice-1-kyc.md
+          - "Apêndice 2 — Reporte Anual": aml/apendice-2-reporte-anual.md
       - Livro de Reclamações: reclamacoes/livro-reclamacoes.md
       - Continuidade de Negócio: compliance/continuidade-negocio.md
       - Gestão de Incumprimentos: compliance/gestao-incumprimentos.md
