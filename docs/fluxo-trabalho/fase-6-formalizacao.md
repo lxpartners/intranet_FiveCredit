@@ -40,22 +40,19 @@ Intervenientes possíveis: **Empresa**, **Compliance**, **Backoffice**
 - Enviar email de `compliance@circlecapital.pt` para o Departamento Financeiro, com o Board em CC, e
   conhecimento ao Support, detalhando o montante a creditar e os dados do beneficiário:
 
-    ```
-    Montante a creditar 211 950,00€ (duzentos e onze mil, novecentos e cinquenta euros)
+    **Exemplo:** Montante a creditar 211 950,00€ (duzentos e onze mil, novecentos e cinquenta euros)
 
-    Montante de Crédito: 225 000,00 €
-    Comissão Única: 11 250,00 €
-    I.S. Comissão Única: 450,00 €
-    I.S. Concessão de Crédito: 1 350,00 €
-
-    Nome do beneficiário: Teste
-    NIF: 333222111
-    IBAN a Creditar: PT5123 5000 2345 3322 4222 134
-    Banco do Beneficiário: (Nome do Banco)
-    Data Valor Débito:
-    Data Valor Crédito:
-    Descritivo no beneficiário: FIVE-01-111222 (número do contrato)
-    ```
+    * Montante de Crédito: 225 000,00 €
+    * Comissão Única: 11 250,00 €
+    * I.S. Comissão Única: 450,00 €
+    * I.S. Concessão de Crédito: 1 350,00 €
+    * Nome do beneficiário: Teste
+    * NIF: 333222111
+    * IBAN a Creditar: PT5123 5000 2345 3322 4222 134
+    * Banco do Beneficiário: (Nome do Banco)
+    * Data Valor Débito:
+    * Data Valor Crédito:
+    * Descritivo no beneficiário: FIVE-01-111222 (número do contrato)
 
 - Departamento Financeiro inicia transferência
 
