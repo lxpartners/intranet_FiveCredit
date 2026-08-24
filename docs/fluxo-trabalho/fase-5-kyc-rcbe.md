@@ -10,6 +10,12 @@ Intervenientes possíveis: **Empresa**, **Compliance**, **Backoffice**
 - Confirmar dados de quem responde ao KYC
 - Iniciar KYC → Submeter
 
+!!! note "Atualização de processo"
+    A recolha do RCBE deixou de ser um passo autónomo a cargo da Empresa e de um Declarante externo
+    (advogado, solicitador, gerente ou administrador) — passa a ser recolhido diretamente como uma das
+    fontes de dados nesta fase de criação do KYC. Já não existe um passo separado de "Registo Central do
+    Beneficiário Efetivo".
+
 !!! note
     Email 17.
 
@@ -41,5 +47,10 @@ Intervenientes possíveis: **Empresa**, **Compliance**, **Backoffice**
 
 - Estandardizar ficheiros: irs_NIF.pdf, imi_NIF.pdf
 - Realizar o scoring do avalista
-- Caso o rating seja A ou B, esperar pela aprovação da Board
+- Rating A ou B: aguardar aprovação da Board
+- **Rating abaixo de B: a candidatura não avança**
 - Arquivar na pasta do avalista
+- Aprovação recebida por email, com indicação do rating — arquivado na pasta do Avalista pelo Compliance
+- Compliance clica em "Terminar Revisão" e fecha a janela
+- Análise Financeira acede à plataforma Creditscore e clica em "Formalização" para iniciar o processo
+  contratual

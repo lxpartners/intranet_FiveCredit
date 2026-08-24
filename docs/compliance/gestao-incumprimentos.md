@@ -17,6 +17,26 @@ Processo a seguir quando um cliente falha o pagamento de prestações.
 
 - Enviar **nova carta de interpelação** — desta vez já com o **preenchimento da livrança**
 
+## 60 dias de incumprimento
+
+Antes de encaminhar o processo para o Departamento Financeiro, caso o incumprimento se mantenha ao fim
+de **60 dias** desde o seu início, enviar ao cliente um email de aviso sobre o encaminhamento do processo
+para o Departamento de Contencioso:
+
+```
+Exmo. Senhor/Senhora,
+
+Na sequência das nossas comunicações anteriores e do plano de regularização acordado, verificámos que, para além da prestação com vencimento em xx/xx/xxxx, no montante de xxx,xx €, relativa à prestação de março, se encontra igualmente em falta a prestação com vencimento em xx/xx/xxxx, no montante de xxx,xx €, relativa à prestação de (mês em causa).
+
+Mais uma vez chamamos a atenção para a necessidade de cumprimento rigoroso do plano definido. A manutenção destas prestações em atraso poderá implicar, sem nova comunicação, o encaminhamento imediato do processo para o nosso Departamento de Contencioso, com o consequente desencadeamento dos competentes procedimentos legais para cobrança judicial da dívida, nos termos já anteriormente transmitidos.
+
+Solicitamos, assim, que proceda à regularização integral das prestações em falta com a máxima urgência e que nos remeta o respetivo comprovativo de pagamento, bem como os comprovativos das prestações subsequentes logo que liquidadas, de modo a permitir a atualização da sua situação em sistema.
+
+Ficamos a aguardar a sua resposta com a maior brevidade.
+
+Com os melhores cumprimentos, Equipa Five Credit
+```
+
 !!! warning "Confirmar antes de tornar oficial"
     Confirmar com o Responsável de Compliance os prazos exatos entre cada carta e o texto legal usado nas
     interpelações, antes de tratar este processo como definitivo.

@@ -78,4 +78,10 @@ Intervenientes possíveis: **Empresa**, **Compliance**, **Backoffice**
 - Marathon envia informação ao Bankinter (D−5)
 - Bankinter → Sibs
 - Email automático com info da 1.ª tentativa de débito
-- Cálculo manual dos juros através do analista financeiro e posterior envio para o departamento responsável pelos DD (IT) para ser feito a nova tentativa de débito
+- Em caso de insucesso da 1.ª tentativa: o CreditCover calcula os juros **automaticamente** e envia a
+  informação ao departamento responsável pelos Débitos Diretos (IT), para nova tentativa de débito
+
+!!! note "Atualização de processo"
+    O pré-aviso deixou de ter dois momentos (D-15 e D-5) — passa a existir apenas o envio a D-5. O cálculo de
+    juros da 2ª tentativa de débito, anteriormente manual (feito pelo analista financeiro), passou a ser
+    automático através do CreditCover.

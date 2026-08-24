@@ -20,6 +20,11 @@ Intervenientes possíveis: **Empresa**, **Creditscore**
 !!! note
     Email 4 ou 5 com resultado.
 
+## 06.1 — Backoffice
+*Apoio à candidatura*
+
+- Contacto pelo Suporte para apoio à candidatura, quando solicitado
+
 ## 07 — Contabilista — identificação
 *Dados de contacto do CC*
 
