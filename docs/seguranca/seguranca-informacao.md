@@ -4,7 +4,8 @@
 
 - Nunca partilhar a password de acesso à intranet ou a outras ferramentas internas
 - Usar uma password diferente para cada serviço
-- Se suspeitarem que uma password foi comprometida, mudem-na imediatamente e avisem *(preencher — quem?)*
+- Se suspeitarem que uma password foi comprometida, mudem-na imediatamente e avisem a equipa de TI /
+  Suporte — ver [Contactos Úteis](../geral/contactos-uteis.md)
 
 ## Phishing e emails suspeitos
 
@@ -14,11 +15,12 @@ Sinais de alerta comuns:
 - Remetente que parece familiar mas o endereço de email não bate certo
 - Links que pedem para "confirmar" credenciais numa página fora do habitual
 
-**O que fazer:** não clicar em links nem abrir anexos suspeitos; reencaminhar para *(preencher — contacto de IT/segurança)*; não responder ao remetente.
+**O que fazer:** não clicar em links nem abrir anexos suspeitos; reencaminhar para a equipa de TI /
+Suporte — ver [Contactos Úteis](../geral/contactos-uteis.md); não responder ao remetente.
 
 ## Perda ou roubo de equipamento
 
-1. Reportar imediatamente a *(preencher — quem?)*
+1. Reportar imediatamente à equipa de TI / Suporte — ver [Contactos Úteis](../geral/contactos-uteis.md)
 2. Se o equipamento tiver acesso a contas da empresa, mudar passwords relevantes assim que possível
 3. Registar o incidente (data, o que foi perdido, medidas tomadas)
 

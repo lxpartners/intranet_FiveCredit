@@ -12,12 +12,13 @@ Usem a **caixa de pesquisa** no topo para encontrar rapidamente qualquer conteú
 
 - Se souberem editar o ficheiro `.md` correspondente, sintam-se à vontade — ver o `README.md` do projeto
   para o processo
-- Caso contrário, contactem *(preencher — quem é o responsável por manter esta intranet atualizada?)*
+- Caso contrário, contactem a equipa de Suporte — ver [Contactos Úteis](contactos-uteis.md)
 
 ## Sugerir uma secção nova
 
 Esta intranet foi pensada para crescer. Se sentirem falta de uma secção (um novo procedimento, um novo
-departamento), sugiram a *(preencher — a quem?)* — é normalmente rápido de adicionar.
+departamento), sugiram à equipa de Suporte — ver [Contactos Úteis](contactos-uteis.md) — é normalmente
+rápido de adicionar.
 
 ## Dúvidas frequentes
 

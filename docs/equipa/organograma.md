@@ -7,6 +7,16 @@
 | *(preencher)* | *(preencher)* | Comercial | | |
 | *(preencher)* | *(preencher)* | Risco | | |
 | *(preencher)* | *(preencher)* | Compliance | | |
+| *(preencher)* | *(preencher)* | Análise Financeira | | |
+| *(preencher)* | *(preencher)* | Board | | |
+| *(preencher)* | *(preencher)* | Suporte / TI | | |
+| *(preencher)* | *(preencher)* | Departamento Financeiro | | |
+| *(preencher)* | *(preencher)* | DPO (Proteção de Dados) | | |
+
+!!! tip
+    A lista de departamentos acima foi construída a partir de todas as funções mencionadas ao longo desta
+    intranet — ver [Contactos Úteis](../geral/contactos-uteis.md) para saber em que situações cada uma é
+    contactada.
 
 ## Onboarding — primeiros passos para quem entra de novo
 

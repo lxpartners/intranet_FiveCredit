@@ -1,87 +1,147 @@
 # Fase 6 — Formalização
 
-Intervenientes possíveis: **Empresa**, **Compliance**, **Backoffice**
+Intervenientes possíveis: **Empresa**, **Compliance**, **Board**, **Suporte**, **Departamento
+Financeiro**
 
-## 20 — Informação contratual
+## 18 — Informação Contratual & Formalização
 *Dados pré-contratuais*
 
-- Clicar no link recebido por email
-- Confirmar avalistas, representantes e conta bancária
-- Submeter e sair
+O candidato confirma os dados dos Avalistas e Representantes da empresa no questionário pré-contratual,
+bem como a conta bancária da Empresa onde irá ser creditado o financiamento e debitadas as prestações.
 
-!!! note
-    Email 20.
+- Clica no link que recebeu no e-mail
+- Confirma todos os dados anteriormente colocados
+- Submete
+- Sai
 
-## 20.1 — Backoffice — formalização do contrato
+**Responsável:** Empresa · **Sistema:** Creditscore · **Email(s):** Email 20
+
+## 18.1 — Backoffice — Formalização do contrato
 *Compliance e Board*
 
-- Confirmar dados e guardar → Submeter
-- Contrato gerado automaticamente em PDF
-- Board (2 de 3): aceitar ou rejeitar
-- Contrato disponível na plataforma
+O Compliance irá analisar todos os detalhes e aprovar o KYC. Após verificação, o Board aprova a
+disponibilização do contrato na plataforma para consulta do Candidato através do processo de
+formalização.
 
-!!! note
-    Email 21.
+- Confirmar os dados e guardar
+- Após tudo confirmado, clicar em "Submeter"
+- Abre automaticamente o Contrato em formato PDF
+- Perfil Board (2 de 3): aceitação ou rejeição do contrato
+- Após validação, o contrato fica disponível na plataforma para consulta do cliente
 
-## 21 — Download e upload do contrato
+**Responsável:** Compliance, Board · **Sistema:** Creditscore · **Email(s):** Email 21
+
+## 19 — Download e Upload do Contrato
 *Assinatura e entrega*
 
-- Empresa recebe email de agendamento
-- Comparecer com: BI/passaporte, carimbo, ata de aprovação, procuração (se aplicável)
-- Compliance digitaliza e envia à empresa
-- Upload: Contrato + Autorização de Débito + Livrança (PDF)
+O contrato fica disponível na plataforma para consulta e/ou download pelo cliente, que irá receber email
+para efeitos de agendamento de assinatura do contrato. Depois de toda a documentação assinada, o
+Departamento de Compliance revê a conformidade da documentação, digitaliza e envia ao cliente que deverá
+fazer upload na plataforma de forma a finalizar o processo e despoletar o envio dos fundos.
 
-## 21.1 — Backoffice — aprovação final
-*Candidatura completa*
+!!! note "Agendamento do contrato"
+    Para efeitos da formalização, o representante da empresa deverá fazer-se acompanhar de:
 
-- Compliance verifica conformidade dos documentos
-- Aceder → Aprovar → Confirmar
-- Candidatura passa ao estado "Completo"
-- Enviar email de `compliance@circlecapital.pt` para o Departamento Financeiro, com o Board em CC, e
-  conhecimento ao Support, detalhando o montante a creditar e os dados do beneficiário:
+    - Documento(s) de identificação (passaporte, conforme indicado no contrato)
+    - Carimbo da Empresa (caso este exista), para efeitos de assinatura do contrato e subscrição da
+      livrança
+    - Fotocópia certificada da ata de aprovação da celebração do financiamento garantido por livrança e
+      comprovativa dos poderes de representação (ou, alternativamente, o livro de atas para efeitos de
+      consulta)
+    - Se aplicável, original ou fotocópia certificada da procuração comprovativa dos poderes de
+      representação
 
-    **Exemplo:** Montante a creditar 211 950,00€ (duzentos e onze mil, novecentos e cinquenta euros)
+- Upload do Contrato, da Autorização de Débito Direto e da Livrança
+- Formato PDF
+- Clicar em "Submeter"
 
-    * Montante de Crédito: 225 000,00 €
-    * Comissão Única: 11 250,00 €
-    * I.S. Comissão Única: 450,00 €
-    * I.S. Concessão de Crédito: 1 350,00 €
-    * Nome do beneficiário: Teste
-    * NIF: 333222111
-    * IBAN a Creditar: PT5123 5000 2345 3322 4222 134
-    * Banco do Beneficiário: (Nome do Banco)
-    * Data Valor Débito:
-    * Data Valor Crédito:
-    * Descritivo no beneficiário: FIVE-01-111222 (número do contrato)
+**Responsável:** Empresa, Compliance · **Sistema:** Creditscore · **Email(s):** Email
 
-- Departamento Financeiro inicia transferência
+## 19.1 — Backoffice — Download e Upload do Contrato
+*Aprovação final e instrução de transferência*
 
-## 22 — Imposto de Selo
+Após o carregamento pela Empresa da documentação na plataforma, o Departamento de Compliance verifica a
+sua conformidade e solicita por email ao Departamento Financeiro que prossiga com a transferência.
+Simultaneamente, é dada a validação pelo Suporte na plataforma, e a candidatura passa ao estado
+"Completo".
+
+- Aceder à candidatura
+- Selecionar "Aprovar"
+- Confirmar aprovação
+- Enviar email de `compliance@circlecapital.pt` para o Departamento Financeiro, com o Board em CC,
+  detalhando o montante a creditar e os dados do beneficiário:
+
+    - Montante de Crédito
+    - Comissão Única
+    - I.S. Comissão Única
+    - I.S. Concessão de Crédito
+    - Nome do beneficiário
+    - NIF
+    - IBAN a Creditar
+    - Banco do Beneficiário
+    - Data Valor Débito
+    - Data Valor Crédito
+    - Descritivo no beneficiário (n.º do contrato, ex.: FIVE01-111222)
+
+- O Departamento Financeiro inicia a transferência
+
+**Responsável:** Compliance, Suporte, Departamento Financeiro · **Sistema:** Creditscore ·
+**Email(s):** Email
+
+## 20 — Backoffice — Imposto de Selo
 *Apuramento mensal*
 
-- Apurar: colunas Stamp, Stamp on Loan, Stamp on Fees
-- Enviar ao Contabilista Certificado (EY)
-- Confirmar internamente
-- Guia de pagamento até ao dia 20 do mês seguinte
+Com base no Reporte Financeiro elaborado automaticamente a partir do Credit Cover e enviado mensalmente à
+EY, o Departamento Financeiro:
 
-## 23 — Faturação
-*Emissão de faturas mensais*
+- Considera as colunas "Stamp", "Stamp on Loan" e "Stamp on Fees"
+- Apura o valor do I.S.
+- Envia para o Contabilista Certificado (EY)
+- Confirma internamente a informação enviada pelo Contabilista Certificado
+- Submissão da DMIS pelo Contabilista Certificado
+- Envio de guia para pagamento até ao dia 20 do mês + 1
 
-- Contratos em curso: Interest e Stamp
-- Novos contratos: Opening Fee, Stamp on Loan e Stamp on Fee
-- EY emite e envia até ao dia 5
-- Suporte envia via finance@fivecredit.pt
+**Responsável:** Suporte, Departamento Financeiro · **Sistema:** N.A. · **Email(s):** Email
 
-## 24 — Débitos diretos
+## 21 — Backoffice — Faturação
+*Reporte financeiro mensal*
+
+Com base no Reporte Financeiro, o Departamento Financeiro:
+
+- Reporte automático do credit cover enviado à EY
+- EY envia para a Fivecredit
+- Credit cover envia posteriormente as faturas para o respetivo cliente
+
+**Responsável:** Suporte, Departamento Financeiro · **Sistema:** N.A. · **Email(s):** Email
+
+## 22 — Backoffice — Débitos Diretos
 *Marathon → Bankinter → Sibs*
 
-- Marathon envia informação ao Bankinter (D−5)
-- Bankinter → Sibs
-- Email automático com info da 1.ª tentativa de débito
-- Em caso de insucesso da 1.ª tentativa: o CreditCover calcula os juros **automaticamente** e envia a
-  informação ao departamento responsável pelos Débitos Diretos (IT), para nova tentativa de débito
+Com o processo de formalização finalizado na plataforma, para os contratos "Performing":
+
+- D − 5: a Marathon envia informação para o Bankinter
+- Bankinter » Sibs
+- A plataforma envia email automático à Empresa com informação da 1.ª tentativa de débito
+- Em caso de insucesso da 1.ª tentativa: o credit cover calcula automaticamente os juros e envia a
+  informação ao departamento responsável pelos Débitos Diretos (IT), para que seja feita uma nova
+  tentativa de débito
 
 !!! note "Atualização de processo"
-    O pré-aviso deixou de ter dois momentos (D-15 e D-5) — passa a existir apenas o envio a D-5. O cálculo de
-    juros da 2ª tentativa de débito, anteriormente manual (feito pelo analista financeiro), passou a ser
-    automático através do CreditCover.
+    O pré-aviso deixou de ter dois momentos (D-15 e D-5), passando a existir apenas o envio a D-5. Foi
+    também definido o procedimento para a 2.ª tentativa de débito: cálculo automático de juros através do
+    credit cover, com envio ao departamento de IT.
+
+**Responsável:** Suporte, Marathon · **Sistema:** N.A. · **Email(s):** Credit Cover
+
+## 23 — Procedimento de Incumprimentos
+
+Em caso de incumprimento no pagamento das prestações, é seguido um procedimento de acompanhamento e
+notificação ao cliente antes de o processo ser escalado internamente — incluindo os avisos de falha de
+débito direto, as interpelações por email e correio registado, e o eventual encaminhamento para o
+Departamento de Contencioso.
+
+O fluxo completo, com todos os modelos de email e o calendário de SLAs (D+1 a D+90), está documentado em
+[Compliance → Gestão de Incumprimentos](../compliance/gestao-incumprimentos.md).
+
+**Responsável:** Suporte, Departamento Financeiro · **Sistema:** Creditscore · **Email(s):** Email de
+aviso de incumprimento (60 dias)

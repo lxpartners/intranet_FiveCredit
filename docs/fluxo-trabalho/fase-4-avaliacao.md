@@ -1,44 +1,63 @@
 # Fase 4 — Avaliação
 
-Intervenientes possíveis: **Empresa**, **Creditscore**, **Backoffice**
+Intervenientes possíveis: **Empresa**, **Creditscore**, **Análise Financeira**, **Board**
 
-## 17 — Submeter candidatura
+## 14 — Submeter Candidatura
 *Submissão final*
+
+Após validação da informação e documentação carregadas na plataforma, o Candidato submete a candidatura.
 
 - Confirmar todos os dados
 - Submeter candidatura
-- Pop-up: confirmar submissão
-- Aguardar email de avaliação
+- Pop-up: confirmação de submissão ou cancelar
+- Aguardar email — avaliação da candidatura
 
-## 17.1 — Backoffice — aceitar ou rejeitar
-*Análise financeira*
+**Responsável:** Empresa · **Sistema:** Creditscore · **Email(s):** N.A.
 
-- Login como Análise Financeira
-- Selecionar empresa candidata no dashboard
-- Clicar no lápis
-- OK → Crédito (inicia simulação)
-- KO → Rejeitar (email ao candidato)
+## 14.1 — Backoffice — Aceitar ou Rejeitar a Candidatura
+*Análise de risco de crédito*
+
+Análise de risco de crédito: aprovação ou rejeição da candidatura.
+
+- Perfil Análise Financeira: login na plataforma
+- Selecionar a empresa candidata
+- Clicar na opção dashboard para verificar dados
+- Informação conforme / não conforme
+- **OK:** enviado email a informar o cliente que o crédito foi aprovado e que pode iniciar a simulação
+- **KO:** enviado email a informar o cliente que o crédito foi rejeitado/não aprovado
 
 !!! note
-    Emails 10 ou 11.
+    O perfil de assistência técnica permite consultar a fase da candidatura e o respetivo estado a todos
+    os perfis; o perfil de suporte técnico é o "webwise".
 
-## 18 — Simulação de crédito
+**Responsável:** Análise Financeira · **Sistema:** Creditscore · **Email(s):** Email 10 ou 11
+
+## 15 — Simulação
 *Simulador de crédito*
 
-- Clicar no link recebido por email
+O Candidato pode efetuar simulações de diferentes montantes de empréstimo, até ao limite máximo definido
+pela Five Credit aquando da concessão do financiamento.
+
+- Clicar no link recebido via email
 - Login no site Five Credit
-- Efetuar simulação e calcular plano de pagamentos
-- Guardar, confirmar e submeter simulação
-- Aguardar aceitação
+- Aceder ao Simulador de Crédito
+- Efetuar simulação
+- Calcular plano de pagamentos
+- Guardar simulação
+- Confirmar simulação
+- Submeter simulação
+- Pop-up: confirmar submissão ou cancelar
+- Aguardar aceitação da simulação
 
-!!! note
-    Email 10.
+**Responsável:** Empresa · **Sistema:** Creditscore · **Email(s):** Email 10
 
-## 18.1 — Backoffice — aceitar/rejeitar simulação
-*Aprovação pelo Board*
+## 15.1 — Backoffice — Aceitar ou Rejeitar Simulação
+*Aprovação pelo Board e início do KYC*
 
-- Board (2 de 3): aceitar ou rejeitar simulação
-- Aceitação → inicia processo de RCBE
+O Board confirma e aprova a simulação; a equipa de Compliance inicia o processo de KYC. O RCBE é
+recolhido automaticamente quando o Board aprova a simulação e a candidatura passa a Targets.
 
-!!! note
-    Email 12.
+- Perfil Board (2 de 3): aceitação ou rejeição da simulação
+- Aceitação da simulação — iniciar o processo de KYC
+
+**Responsável:** Board, Compliance · **Sistema:** Creditscore · **Email(s):** Email 12
