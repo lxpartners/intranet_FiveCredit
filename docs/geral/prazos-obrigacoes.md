@@ -1,10 +1,12 @@
 # Prazos e Obrigações Recorrentes
 
 Resumo dos prazos já mencionados noutras páginas desta intranet, juntos num só sítio para facilitar o
-acompanhamento. Cada linha tem uma ligação para a página com o detalhe completo.
+acompanhamento. Cada linha tem uma ligação para a página com o detalhe completo. Os prazos com data fixa
+também aparecem no [Calendário](calendario.md).
 
 | Obrigação | Prazo | Responsável | Mais detalhe |
 |---|---|---|---|
+| Reporte Anual PBC/FT à CMVM (Apêndice 2) | Até 31 de março de cada ano | Responsável pelo Cumprimento Normativo | [Política AML — 02](../aml/02-organizacao-interna.md) |
 | Relatório anual de eficácia do controlo (Compliance) | Até final de maio | Responsável de Compliance | [Política de Compliance — 05](../compliance/05-relatorios.md) |
 | Relatório anual de compliance ao CA | Anual | Responsável de Compliance | [Política de Compliance — 05](../compliance/05-relatorios.md) |
 | Guia de pagamento do Imposto de Selo | Até dia 20 do mês seguinte | Backoffice | [Fluxo de Trabalho — Fase 6](../fluxo-trabalho/fase-6-formalizacao.md) |

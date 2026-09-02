@@ -56,6 +56,7 @@ nav:
       - Perguntas Frequentes: geral/faq.md
   - Geral:
       - Comunicados e Novidades: comunicados/index.md
+      - Calendário: geral/calendario.md
       - Book de Comunicação:
           - Registo: book-comunicacao/registo.md
           - Candidatura: book-comunicacao/candidatura.md
@@ -69,18 +70,13 @@ nav:
           - "Fase 2 — Candidatura": fluxo-trabalho/fase-2-candidatura.md
           - "Fase 3 — Documentos": fluxo-trabalho/fase-3-documentos.md
           - "Fase 4 — Avaliação": fluxo-trabalho/fase-4-avaliacao.md
-          - "Fase 5 — KYC": fluxo-trabalho/fase-5-kyc-rcbe.md
+          - "Fase 5 — KYC & RCBE": fluxo-trabalho/fase-5-kyc-rcbe.md
           - "Fase 6 — Formalização": fluxo-trabalho/fase-6-formalizacao.md
           - "Fase 7 — Renovação de Dados": fluxo-trabalho/fase-7-renovacao.md
       - Segurança da Informação: seguranca/seguranca-informacao.md
-      - Sistemas e Ferramentas: geral/sistemas-ferramentas.md
-      - Contactos Úteis: geral/contactos-uteis.md
       - Glossário: geral/glossario.md
       - Prazos e Obrigações Recorrentes: geral/prazos-obrigacoes.md
-      - Registo de Alterações: geral/registo-alteracoes.md
       - Equipa e Organograma: equipa/organograma.md
-  - Recursos Humanos:
-      - Procedimentos: rh/recursos-humanos.md
   - Comercial:
       - Procedimentos: comercial/originacao-credito.md
   - Risco:

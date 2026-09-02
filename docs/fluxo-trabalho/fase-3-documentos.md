@@ -2,164 +2,85 @@
 
 Intervenientes possíveis: **Empresa**, **Creditscore**, **Contabilista**
 
-## 05 — Contabilista Certificado — Upload de Informação
+## 08 — CC — Upload de informação Financeira
 *Extração via Five Extractor*
 
-O Contabilista processa o ficheiro SAFT de contabilidade no Five Extractor, que recolhe apenas a
-informação necessária para um documento Excel não editável.
+- CC recebe email e clica no 1.º link
+- Instalar Five Extractor (Apple ou Microsoft)
+- Extrair dados e guardar Excel no PC
+- 2.º link → Upload ficheiros na plataforma
 
-- O Contabilista Certificado recebe o email e clica no 1.º link
-- Selecionar o sistema operativo (Windows/MacOS) e instalar o Five Extractor (aplicação
-  segura/encriptada)
-- Abrir o Five Extractor
-- Adicionar o SAFT de contabilidade
-- Extrair dados
-- Guardar o Excel no PC
-- Sair
-- Clicar no 2.º link do email e validar identidade através de um código enviado por email
-- Clicar em "Browse" para upload dos ficheiros Excel
-- O Contabilista recebe email de confirmação
-- A Empresa pode prosseguir com a candidatura, mesmo que o upload dos documentos por parte da
-  contabilidade ainda não esteja efetuado
+!!! note
+    Emails 7, 8 e 9.
 
-**Responsável:** Contabilista · **Sistema:** Creditscore, Five Extractor · **Email(s):** Emails 7, 8 e 9
-
-## 06 — Recolha Automática de Dados Administrativos — Instalar Extensão
+## 09 — Instalar extensão Doc Sync
 *Recolha automática no Chrome*
 
-O Candidato instala a extensão Five Credit Doc Sync para efeitos de recolha de informação dos sites do
-Banco de Portugal, da Autoridade Tributária e da Segurança Social.
+- Instalar extensão Five Credit Doc Sync
+- Pop-up: Adicionar extensão
+- Ícone puzzle → 3 pontos → Gerir extensão
+- Permitir acesso a URLs de arquivo
+- Fechar browser e validar extensão
 
-- Instalar a extensão Five Credit Doc Sync no Google Chrome, sendo que a recolha dos documentos pode
-  também ser feita manualmente
-- Pop-up: selecionar "Adicionar Extensão"
-- Canto superior direito: ícone do puzzle
-- Clicar nos 3 pontos na vertical ao lado da extensão Five Credit Doc Sync
-- Clicar em "Gerir extensão" e permitir acesso a URLs de arquivo
-- Fechar o browser
-- No site Five Credit: validar / atualizar a extensão
-
-**Responsável:** Empresa · **Sistema:** Creditscore, Extensão Five Credit Doc Sync · **Email(s):** N.A.
-
-## 07 — Recolha Automática de Dados Administrativos — Banco de Portugal
+## 10 — Recolha automática — Banco de Portugal
 *Via extensão*
 
-A extensão recolhe a informação estritamente necessária para efeitos de análise de risco de crédito.
+- Site Five Credit: Banco de Portugal
+- Atualizar extensão → Recolher documentos
+- Autenticar no site do BDP
+- Extensão recolhe dados para análise de crédito
 
-- No site Five Credit: aceder a "Banco de Portugal"
-- Recolher documentos
-- Abre o separador do site do Banco de Portugal
-- O Candidato efetua login no site do Banco de Portugal
+## 11 — Recolha manual — Banco de Portugal
+*Base de Dados de Contas*
 
-!!! note
-    O Candidato pode consultar a informação recolhida pela extensão na pasta "Transferências" do seu PC.
-
-**Responsável:** Empresa · **Sistema:** Creditscore, Extensão Five Credit Doc Sync · **Email(s):** N.A.
-
-## 08 — Recolha Manual dos Dados Administrativos — Banco de Portugal
-*Base de Dados de Contas, Mapa de Responsabilidades e Restrição de Cheques*
-
-Nesta opção, o Candidato recolhe manualmente os documentos do site do Banco de Portugal (Base de Dados
-de Contas, Mapa de Responsabilidades de Crédito e Restrição ao Uso de Cheques), que ficam armazenados na
-pasta de transferências do computador, devendo ser carregados um a um na plataforma.
-
-- No site Five Credit: Banco de Portugal
-- Selecionar "Recolha Manual"
-- Aceder à "Base de Dados de Contas"
-- Abre o separador do site do Banco de Portugal
-- Aceitar as condições de acesso à BCB
-- Autenticar; obter o mapa e carregar na plataforma
-- Repetir os passos anteriores para o Mapa de Responsabilidades de Crédito e para a Restrição ao Uso de
-  Cheques
+- Aceder à Base de Dados de Contas
+- Aceitar condições de acesso à BCB
+- Autenticar e obter mapa
+- Repetir para Mapa de Responsabilidades e Restrição de Cheques
 
 !!! note
-    Os documentos são carregados na pasta "Transferências" do PC. Não alterar o nome nem o formato dos
-    ficheiros extraídos. O PDF deve ser legível por máquina (machine-readable).
+    Não alterar nome nem formato dos ficheiros.
 
-**Responsável:** Empresa · **Sistema:** Creditscore · **Email(s):** N.A.
-
-## 09 — Recolha Automática de Dados Administrativos — Segurança Social
+## 12 — Recolha automática — Segurança Social
 *Via extensão*
 
-A extensão recolhe a informação estritamente necessária para efeitos de análise de risco de crédito.
+- Site Five Credit: Segurança Social
+- Atualizar extensão → Recolher documentos
+- Login no site da SS
+- Extensão recolhe automaticamente
 
-- No site Five Credit: aceder a "Segurança Social"
-- Atualizar a extensão
-- Recolher documentos
-- Abre o separador do site da Segurança Social
-- O Candidato efetua login no site da Segurança Social
-
-!!! note
-    O Candidato pode consultar a informação recolhida pela extensão na pasta em que é guardada no seu
-    computador.
-
-**Responsável:** Empresa · **Sistema:** Creditscore, Extensão Five Credit Doc Sync · **Email(s):** N.A.
-
-## 10 — Recolha Manual dos Dados Administrativos — Segurança Social
+## 13 — Recolha manual — Segurança Social
 *Declaração de Não Dívida*
 
-O Candidato recolhe manualmente o documento do site da Segurança Social (Declaração de Não Dívida), que
-fica armazenado na pasta de transferências do computador, devendo ser carregado diretamente na
-plataforma.
+- Aceder à Declaração de Não Dívida
+- Login no site da SS → Obter nova declaração
+- Browse → selecionar documento → Submeter
 
-- No site Five Credit: Segurança Social
-- Selecionar "Recolha Manual"
-- Aceder à "Declaração de Não Dívida"
-- Abre o separador do site da Segurança Social
-- Login no site da Segurança Social
-- Obter nova declaração
-- Guardar declaração (assim que ficar disponível)
-- Clicar em "Browse"
-- Selecionar o documento e submeter
-
-!!! note
-    Os documentos devem ser carregados a partir da pasta "Transferências" do PC. Não alterar o nome nem o
-    formato dos ficheiros extraídos.
-
-**Responsável:** Empresa · **Sistema:** N.A. · **Email(s):** N.A.
-
-## 11 — Recolha Automática de Dados Administrativos — Autoridade Tributária
+## 14 — Recolha automática — Autoridade Tributária
 *Via extensão*
 
-A extensão recolhe a informação estritamente necessária para efeitos de análise de risco de crédito.
+- Site Five Credit: Autoridade Tributária
+- Atualizar extensão → Recolher documentos
+- Login no site da AT
 
-- No site Five Credit: aceder a "Autoridade Tributária"
-- Recolher documentos
-- Abre o separador do site da Autoridade Tributária
-- O Candidato efetua login no site da Autoridade Tributária
-
-!!! note
-    O Candidato pode consultar a informação recolhida pela extensão na pasta "Transferências" do seu PC.
-
-**Responsável:** Empresa · **Sistema:** Creditscore, Extensão Five Credit Doc Sync · **Email(s):** N.A.
-
-## 12 — Recolha Manual dos Dados Administrativos — Autoridade Tributária
+## 15 — Recolha manual — Autoridade Tributária
 *Declaração de Não Dívida*
 
-O Candidato recolhe manualmente o documento do site da Autoridade Tributária (Declaração de Não Dívida),
-que fica armazenado na pasta de transferências do computador, devendo ser carregado diretamente na
-plataforma.
+- Aceder à Declaração de Não Dívida
+- Login no site da AT
+- Certidão de Dívida/Não Dívida → Confirmar
+- Renomear ficheiro .action → .pdf
+- Browse → Submeter
 
-- No site Five Credit: Autoridade Tributária
-- Selecionar "Recolha Manual"
-- Aceder à "Declaração de Não Dívida"
-- Abre o separador do site da Autoridade Tributária
-- Login no site da Autoridade Tributária
-- Aceder a "Certidão de Dívida / Não Dívida"
-- Confirmar
-- Clicar em "Certidão"
-- Clicar em "Browse"
-- Selecionar o documento e submeter
+!!! note
+    Guardar com "Todos os ficheiros".
 
-**Responsável:** Empresa · **Sistema:** N.A. · **Email(s):** N.A.
+## 16 — Verificar processo do CC
+*Confirmação de upload informação financeira*
 
-## 13 — Verificação do Processo do Contabilista Certificado
-*Confirmação de upload da informação financeira*
+- Confirmar se o CC efetuou o upload
+- Se não efetuou: reenviar email e aguardar
+- Se efetuou: avançar para próximo passo
 
-O Candidato confirma o carregamento da informação financeira pelo Contabilista Certificado.
-
-- Confirmar se o Contabilista Certificado efetuou o upload do SAFT
-- Se o CC não efetuou o upload: reenviar email e aguardar
-- Se o CC efetuou o upload: submeter candidatura
-
-**Responsável:** Empresa · **Sistema:** Creditscore · **Email(s):** Emails 8 e 9
+!!! note
+    Emails 8 e 9.
